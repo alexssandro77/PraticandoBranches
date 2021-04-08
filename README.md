@@ -1,2 +1,2 @@
 # PraticandoBranches
- Praticando a criação de Branches no GitHub
+ Praticando a criação de **Branches no GitHub**
